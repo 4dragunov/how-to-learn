@@ -5,5 +5,7 @@
   text-align: center;
   width: 60%;
   margin: auto auto 20px;
+  z-index: 1;
+
 
 }
